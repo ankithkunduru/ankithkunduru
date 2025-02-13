@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ankith, I'm an Electrical and Computer Engineering student at Rutgers!
+
+🚗☀️ I'm currently a member of the Rutgers Solar Car Club (we build a fully solar-powered road-legal car to be raced in June)
+🎸🎧 I'm also designing a miniature guitar amp that can be used with headphones

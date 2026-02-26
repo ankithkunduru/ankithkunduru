@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 My name is Ankith, I'm an Electrical and Computer Engineering student at Rutgers - Class of 2027
 
-🚗☀️ I'm a member of the Rutgers Solar Car Club (we build a fully solar-powered road-legal car to race at the end of the year)
+🧠🤖 I am interested in neural engineering and prosthetics, and currently looking for a research position.
 
-🖥️🧠 I'm working as an intern in a lab researching computational neuroscience (specifically modelling of stimulations of the primary visual cortex) - Shoutout the Computational Systems and Neuroscience Group (CSNG) at Charles University, Prague.
+🚗☀️ I'm a member of the Rutgers Solar Car Club (we build a fully solar-powered road-legal car to race at the end of the year).
 
-🎸🎧 I'm also designing a miniature guitar amp that can be used with headphones
+🖥️🧠 This summer I worked as an intern in a lab researching visual prosthesis and modeling the primary visual cortex - Computational Systems and Neuroscience Group (CSNG), Charles University, Prague.
+
+🎸🎹 I also play the guitar and I'm learning the piano right now.
